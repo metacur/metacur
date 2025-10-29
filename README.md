@@ -1,4 +1,8 @@
 ## Hi there 👋
+- I am writing some simple code.
+- シンプルなコードをおいています。
+- ローカルで作っていたものを（内容確認後）すこしずつアップしています。
+
 
 <!--
 **metacur/metacur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
