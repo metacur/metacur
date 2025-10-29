@@ -1,5 +1,4 @@
 ## Hi there 👋
-- I am writing some simple code.
 - シンプルなコードをおいています。
 - ローカルで作っていたものを（内容確認後）すこしずつアップしています。
 
