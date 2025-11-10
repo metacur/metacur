@@ -1,6 +1,5 @@
 ## Hi there 👋
 - シンプルなコードをおいています。
-- ローカルで作っていたものを（内容確認後）すこしずつアップしています。
 
 <a href="https://github.com/metacur">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metacur&layout=compact&theme=dracula" />
